@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Kum Somi
 <h4>I'm a frontend developer, who aspire to become a fullstack developer.</h4>
 
-- 👀 I’m interested in Tech, Tea and books(Taknik, chai aur kitabe).
-
-- 🌱 I’m currently learning **Javascript** and **React** in Web Development.
+- 📌 I’m interested in Tech, Tea and books(Taknik, chai aur kitabe).
+- 📌 I’m currently learning **Javascript** and **React** in Web Development.
 
 - 📝 I write regularly at <a href="https://kumsomi.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) </a>, <a href="https://medium.com/@kumsomi.5">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
@@ -31,6 +30,23 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 -->
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+## My recent projects
+[Travel tape](https://traveltape.netlify.app/), React-JS based video library app
+<a href="https://traveltape.netlify.app/">
+<img src="https://user-images.githubusercontent.com/54243544/192139063-51c904ee-5760-403a-88f5-c1489bbd1835.png" width=800 height=300></img>
+</a>
+
+## My recent blogs
+<p>
+<a href="https://kumsomi.hashnode.dev/this-keyword-and-binding-methods-in-javascript">
+<!--![{this}](https://user-images.githubusercontent.com/54243544/192139244-a3502ec1-455c-40b4-b542-356f4efaf7ac.png)-->
+<img src="https://user-images.githubusercontent.com/54243544/192139244-a3502ec1-455c-40b4-b542-356f4efaf7ac.png" height=200 width=500></img>
+</a>
+<a href="https://kumsomi.hashnode.dev/centering-my-div">
+<img src="https://user-images.githubusercontent.com/54243544/192139467-2447a8d1-5d76-4f97-bf86-c0821f00d99c.png" height=200 width=500></img>
+</a>
+</p>
 
 ### Connect with me :-
 <a href="https://www.linkedin.com/in/kum-somi-25aa8a152">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
