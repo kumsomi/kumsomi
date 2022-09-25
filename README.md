@@ -41,10 +41,10 @@
 <p>
 <a href="https://kumsomi.hashnode.dev/this-keyword-and-binding-methods-in-javascript">
 <!--![{this}](https://user-images.githubusercontent.com/54243544/192139244-a3502ec1-455c-40b4-b542-356f4efaf7ac.png)-->
-<img src="https://user-images.githubusercontent.com/54243544/192139244-a3502ec1-455c-40b4-b542-356f4efaf7ac.png" height=200 width=500></img>
+<img src="https://user-images.githubusercontent.com/54243544/192139244-a3502ec1-455c-40b4-b542-356f4efaf7ac.png" height=200 width=400></img>
 </a>
 <a href="https://kumsomi.hashnode.dev/centering-my-div">
-<img src="https://user-images.githubusercontent.com/54243544/192139467-2447a8d1-5d76-4f97-bf86-c0821f00d99c.png" height=200 width=500></img>
+<img src="https://user-images.githubusercontent.com/54243544/192139467-2447a8d1-5d76-4f97-bf86-c0821f00d99c.png" height=200 width=400></img>
 </a>
 </p>
 
