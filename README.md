@@ -1,14 +1,15 @@
 # 👋 Hi, I’m Kum Somi
 <h4>I'm a frontend developer, who aspire to become a fullstack developer.</h4>
-
+<!--
 - 📌 I’m interested in Tech, Tea and books(Taknik, chai aur kitabe).
-- 📌 I’m currently learning **Javascript** and **React** in Web Development.
+- 📌 I’m currently learning **Javascript** and **React** in Web Development.-->
 
-- 📝 I write regularly at <a href="https://kumsomi.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) </a>, <a href="https://medium.com/@kumsomi.5">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+- 📌 I write technical blogs at <a href="https://kumsomi.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white) </a> 
+<!--<a href="https://medium.com/@kumsomi.5">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>-->
 
-- 💞️ I’m looking to collaborate on Javascript and React projects.
+- 📌 I’m looking to collaborate on Javascript and React projects.
 
-- 📫 Write to me at ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) kumsomi.5@gmail.com
+<!-- -  Write to me at ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) kumsomi.5@gmail.com -->
 
 - Mostly work with :- 
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -24,12 +25,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
 <!--
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 -->
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## My recent projects
 [Travel tape](https://traveltape.netlify.app/), React-JS based video library app
