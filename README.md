@@ -19,36 +19,19 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
 ### Other Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!--
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
--->
 
-## My recent projects
-[Travel tape](https://traveltape.netlify.app/), React-JS based video library app
-<a href="https://traveltape.netlify.app/">
-<img src="https://user-images.githubusercontent.com/54243544/192139063-51c904ee-5760-403a-88f5-c1489bbd1835.png" width=800 height=300></img>
-</a>
-
-## My recent blogs
-<p>
-<a href="https://kumsomi.hashnode.dev/this-keyword-and-binding-methods-in-javascript">
-<!--![{this}](https://user-images.githubusercontent.com/54243544/192139244-a3502ec1-455c-40b4-b542-356f4efaf7ac.png)-->
-<img src="https://user-images.githubusercontent.com/54243544/192139244-a3502ec1-455c-40b4-b542-356f4efaf7ac.png" height=200 width=400></img>
-</a>
-<a href="https://kumsomi.hashnode.dev/centering-my-div">
-<img src="https://user-images.githubusercontent.com/54243544/192139467-2447a8d1-5d76-4f97-bf86-c0821f00d99c.png" height=200 width=400></img>
-</a>
-</p>
 
 ### Connect with me :-
 <a href="https://www.linkedin.com/in/kum-somi-25aa8a152">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
